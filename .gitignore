@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.xlsx
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
