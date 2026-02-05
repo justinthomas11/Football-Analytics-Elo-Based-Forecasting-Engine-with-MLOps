@@ -15,3 +15,7 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+#Dataset
+Data/Football_Tableau.csv
+
