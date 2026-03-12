@@ -19,3 +19,6 @@ Thumbs.db
 #Dataset
 Data/Football_Tableau.csv
 
+mlruns/
+*.db
+
